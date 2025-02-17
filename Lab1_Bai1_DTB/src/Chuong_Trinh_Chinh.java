@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Chuong_Trinh_Chinh {
 	public static void main(String[] args) {
 		Scanner banPhim = new Scanner(System.in);
-		//Nhập họ và ên sinh viên
+		//Nhập họ và tên sinh viên
 		System.out.print("Mời nhập họ và tên sinh viên: ");
 		String hoten = banPhim.nextLine();
 		
